@@ -1,0 +1,12 @@
+{
+  "overlayOpacity": 0.85,
+  "fontSize": 14,
+  "fontColor": "#FFFFFFFF",
+  "showBackground": true,
+  "backgroundColor": "#CC000000",
+  "refreshIntervalMs": 300,
+  "userTerminologyPath": "config/user_terminology.json",
+  "dictionaryPath": "Data/dictionary.json",
+  "terminologyPath": "Data/terminology.json",
+  "useOnlineTranslation": true
+}
